@@ -30,7 +30,8 @@ const modal = new Modal(
 );
 modal.init();
 
-const Tooltip = new Tooltip("[data-tooltip]");
+const tooltip = new Tooltip("[data-tooltip]");
+tooltip.init();
 
 initAnimacaoScroll();
 initTooltip();

@@ -1,4 +1,3 @@
-import Accordion from "./accordion.js";
 import outsideClick from "./outsideclick.js";
 
 export default class DropdownMenu {
